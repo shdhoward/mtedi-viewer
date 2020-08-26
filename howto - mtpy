@@ -1,0 +1,17 @@
+MT data import
+==============
+
+conda create --name python37MT python=3.7
+conda activate python37MT
+conda info --envs
+
+Using base,,, import mtpy
+
+https://www.researchgate.net/publication/333305655_The_MTPy_software_package_for_magnetotelluric_data_analysis_and_visualisation
+
+https://github.com/geophysics/mtpy/blob/master/examples/scripts/simpleplotEDI.py
+
+USE THIS: https://github.com/MTgeophysics/mtpy
+
+https://pdfs.semanticscholar.org/74f4/6d20788c72369daaa4a2a82ac550df95d7b2.pdf
+https://mtpy2.readthedocs.io/en/develop/core.html#module-mtpy.core.edi
