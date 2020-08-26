@@ -1,0 +1,14 @@
+Navidgate to directory you want to 'repo'
+Right click, Open Git Bash here
+$ git init
+$ git add .
+
+make a .gitignore (gitignore.txt then rename)
+
+Make new repo in GitHub
+Copy url: https://github.com/shdhoward/mtedi-viewer.git
+
+$ git config user.email "shdhoward@gmail.com"
+$ git commit (add comment and close with :wq)
+$ git remote add origin https://github.com/shdhoward/mtedi-viewer.git
+$ git push -u origin master
